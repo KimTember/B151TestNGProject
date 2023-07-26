@@ -4,14 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b74a68-586b-44b0-ae32-596709dbd636" name="Changes" comment="" />
+    <list default="true" id="35b74a68-586b-44b0-ae32-596709dbd636" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/BlueRentalPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/OpenSourcePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/OpenSourcePageClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/resources/mysmoketestdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day26PageKullanimi/C01_PageKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day26PageKullanimi/C02_PageKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day26PageKullanimi/C03_PageKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day26PageKullanimi/C04_PozitifTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day26PageKullanimi/TestCenterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day27_SmokeTest_Excel/C01_NegatifTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day27_SmokeTest_Excel/C02_BlueRentalExcelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day27_SmokeTest_Excel/C03_BlueRentalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/DataProviderUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/ExtentReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/ReusableMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/day24_Priority_DependsOnMethod/C01_Priority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/day24_Priority_DependsOnMethod/C01_Priority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/day24_Priority_DependsOnMethod/C02_Ignore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/day24_Priority_DependsOnMethod/C02_Ignore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/day24_Priority_DependsOnMethod/C03_DependsOnMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/day24_Priority_DependsOnMethod/C03_DependsOnMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/day24_Priority_DependsOnMethod/C04_DependsOnMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/day24_Priority_DependsOnMethod/C04_DependsOnMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/day24_Priority_DependsOnMethod/C05_DependsOnMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/day24_Priority_DependsOnMethod/C05_DependsOnMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/day24_Priority_DependsOnMethod/C06_SoftAssert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/day24_Priority_DependsOnMethod/C06_SoftAssert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/tests/day23_Annotation/C01_Annotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day23_Annotation/C01_Annotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/tests/day23_Annotation/C02_BeforeGroupsAfterGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day23_Annotation/C02_BeforeGroupsAfterGroups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/tests/day25_POM/C01_DriverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day25_POM/C01_DriverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/tests/day25_POM/C02_PropertiesKullanimi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day25_POM/C02_PropertiesKullanimi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/tests/day25_POM/C03_PropertiesKullanimi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day25_POM/C03_PropertiesKullanimi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/tests/day25_POM/configuration.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/utilities/ConfigReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/ConfigReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/Driver.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SpTeLlTyyMrwG3juZ7WRmftCwu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,9 +66,117 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/HP/Desktop/TestNGProject g't"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\GitProjects\B151TestNGProject\src\test\java\techproed\resources" />
+      <recent name="C:\Users\HP\Desktop\GitProjects\B151TestNGProject" />
+      <recent name="C:\Users\HP\Desktop\GitProjects\B151TestNGProject\target" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C02_BlueRentalExcelTest.test01">
+    <configuration name="C01_PageKullanimi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B151TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.tests.day26PageKullanimi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.tests.day26PageKullanimi" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.day26PageKullanimi.C01_PageKullanimi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_PageKullanimi.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B151TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.tests.day26PageKullanimi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.tests.day26PageKullanimi" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.day26PageKullanimi.C01_PageKullanimi" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_BlueRentalExcelTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B151TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.tests.day27_SmokeTest_Excel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.tests.day27_SmokeTest_Excel" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.day27_SmokeTest_Excel.C02_BlueRentalExcelTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_PropertiesKullanimi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B151TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.tests.day25_POM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.tests.day25_POM" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.day25_POM.C03_PropertiesKullanimi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_PozitifTest.test01" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="B151TestNGProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="techproed.tests.day26PageKullanimi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="techproed.tests.day26PageKullanimi" />
+      <option name="MAIN_CLASS_NAME" value="techproed.tests.day26PageKullanimi.C04_PozitifTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C02_BlueRentalExcelTest.test01" />
+        <item itemvalue="TestNG.C04_PozitifTest.test01" />
+        <item itemvalue="TestNG.C01_PageKullanimi.test01" />
+        <item itemvalue="TestNG.C01_PageKullanimi" />
+        <item itemvalue="TestNG.C03_PropertiesKullanimi" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

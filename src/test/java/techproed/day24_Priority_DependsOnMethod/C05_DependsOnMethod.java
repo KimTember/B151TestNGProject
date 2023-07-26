@@ -1,4 +1,4 @@
-package techproed.tests.day24_Priority_DependsOnMethod;
+package techproed.day24_Priority_DependsOnMethod;
 
 import org.testng.annotations.Test;
 
