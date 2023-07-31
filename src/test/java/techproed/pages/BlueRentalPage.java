@@ -7,10 +7,10 @@ import techproed.utilities.Driver;
 
 public class BlueRentalPage {
 
-    public BlueRentalPage() {
-        PageFactory.initElements(Driver.getDriver(), this);
-    }
 
+    public BlueRentalPage(){
+        PageFactory.initElements(Driver.getDriver(),this);
+    }
     @FindBy(xpath = "(//*[@role='button'])[1]")
     public WebElement login;
 
@@ -20,11 +20,14 @@ public class BlueRentalPage {
     @FindBy(xpath = "(//*[@type='button'])[1]")
     public WebElement loginVerify;
 
+    @FindBy(xpath = "//*[@role='alert']")
+    public WebElement mesajVerify;
 
-    @FindBy(xpath = "(//*[@type=\"submit\"]")
-    public WebElement loginButton;
+    @FindBy(xpath = "//*[.='Logout']")
+    public WebElement logOut;
 
-
+    @FindBy(xpath = "//*[.='OK']")
+    public WebElement ok;
 }
 
 

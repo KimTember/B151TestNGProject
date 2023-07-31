@@ -1,4 +1,4 @@
-package techproed.day24_Priority_DependsOnMethod;
+package techproed.tests.day24_Priority_DependsOnMethod;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
